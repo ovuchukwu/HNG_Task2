@@ -1,9 +1,9 @@
-# hng_task_2![hng logo](https://user-images.githubusercontent.com/66229720/130119265-c83135fd-c40b-49fe-99dc-26eb4d2907aa.jpeg)
+# hng_task_2!
 https://hng.tech/
 
 
 
-https://user-images.githubusercontent.com/66229720/130119211-e97e0c39-bcc7-41cc-b8a2-091ff78c94f3.mp4
+https://user-images.githubusercontent.com/66229720/130119211-e97e0c39-bcc7-41cc-b8a2-091ff78c94f3.mp4 [hng logo](https://user-images.githubusercontent.com/66229720/130119265-c83135fd-c40b-49fe-99dc-26eb4d2907aa.jpeg)
 
 
 
