@@ -1,10 +1,11 @@
-# hng_task_2
+# hng_task_2![hng logo](https://user-images.githubusercontent.com/66229720/130119265-c83135fd-c40b-49fe-99dc-26eb4d2907aa.jpeg)
+https://hng.tech/
 
-A new Flutter application.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/66229720/130119211-e97e0c39-bcc7-41cc-b8a2-091ff78c94f3.mp4
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
